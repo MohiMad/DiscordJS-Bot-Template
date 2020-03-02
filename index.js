@@ -4,7 +4,7 @@ const { Client, RichEmbed } = require('discord.js'); //requiring the discord.js 
 
 const bot = new Client(); 
 
-const token = 'NjU2ODI5NDExNjM0NTc3NDEw.XfoWFA.T3KV5SYxvRI-6Qbhq4YHzCZ_6_Y';//put the bot's token(SECRET) here
+const token = 'Very_secret_token';//put the bot's token(SECRET) here
 
 
 
@@ -38,7 +38,7 @@ const token = 'NjU2ODI5NDExNjM0NTc3NDEw.XfoWFA.T3KV5SYxvRI-6Qbhq4YHzCZ_6_Y';//pu
 
                 break;//always do break after creating a new case
 
-            case ""://the value in the middle of "" can be anything
+            case "heeey"://the value in the middle of "" can be anything
 
             message.channel.send("Hello " + message.author.username); //message.channel.send(""); the value between "" can be anything
                                             //(message.author.username) gets the author's username and sends it
