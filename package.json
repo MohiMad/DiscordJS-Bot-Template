@@ -1,34 +1,31 @@
 {
-  "name": "obada",
+  "name": "clientname",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "author": "MohiMoo",
+  "author": "authorname",
   "license": "ISC",
   "dependencies": {
     "attachment": "0.1.0-rc2",
-    "cheerio": "^1.0.0-rc.3",
-    "discord.js": "^11.5.1",
+    "cheerio": "^1.0.0-rc.10",
+    "discord.js": "^12.5.3",
+    "got": "^9.6.0",
+    "moment": "^2.29.1",
     "ms": "^2.1.2",
     "request": "^2.88.0",
-    "snekfetch": "^4.0.4",
-    "got": "^9.6.0",
-    "common-tags": "^1.8.0",
-    "jimp": "^0.6.0",
-    "quick.db": "^7.0.0-b22",
-    "mongoose" : "^5.7.14"
+    "snekfetch": "^4.0.4"
   },
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MohiMad/Cowboish-Bot.git"
+    "url": "git+https://github.com/user-name/repo-name.git"
   },
   "keywords": [],
   "bugs": {
-    "url": "https://github.com/MohiMad/Cowboish-Bot/issues"
+    "url": "https://github.com/user-name/repo-name/issues"
   },
-  "homepage": "https://github.com/MohiMad/Cowboish-Bot#readme"
+  "homepage": "https://github.com/user-name/repo-name#readme"
 }
